@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/petercole3/basic-server/issues"
   },
-  "homepage": "https://github.com/petercole3/basic-server#readme"
+  "homepage": "https://github.com/petercole3/basic-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
