@@ -1,8 +1,10 @@
 # Portfolio
 
+## Lab 4
+
 ### **Feature 1**
 
-Number and name of feature: Refactor the CSS
+Name of feature: Refactor the CSS
 
 Estimate of time needed to complete: 2hr
 
@@ -14,7 +16,7 @@ Actual time needed to complete: _____
 
 ### **Feature 2**
 
-Number and name of feature: Modify the contents
+Name of feature: Modify the contents
 
 Estimate of time needed to complete: 2hr
 
@@ -24,7 +26,20 @@ Finish time: _____
 
 Actual time needed to complete: _____
 
-## 
+## Lab 5a
+
+### **Feature 1**
+
+Name of feature: Add Functionality, User Acceptance Tests
+
+Estimate of time needed to complete: 4hr
+
+Start time: 1:20pm
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
 
 ### Prologue by HTML5 UP
 html5up.net | @ajlkn
