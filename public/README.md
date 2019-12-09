@@ -40,6 +40,21 @@ Finish time: _____
 
 Actual time needed to complete: _____
 
+## Lab 5b
+
+### **Feature 1**
+
+Name of feature: Responsive Web Design
+
+Estimate of time needed to complete: 2hr
+
+Start time: 1:45pm
+
+Finish time: _____
+
+Actual time needed to complete: _____
+
+## 
 
 ### Prologue by HTML5 UP
 html5up.net | @ajlkn
